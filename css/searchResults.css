@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+
+.tableResults{
+	margin-top:12%;
+	width:90%;
+	margin-left:5%;
+	margin-bottom:-10%;
+}
+
+.materialList{
+	height: 100px;
+	padding-left: 10px;
+}
+
+

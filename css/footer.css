@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+
+
+#footerList {
+	float: right;
+	margin-right: 40%;
+	margin-top: 1vh;
+}
+
+#icon {
+	width: 20px;
+	height: 20px;
+	margin-left: 3%;
+}
+
+#footer {
+	margin-top: 40%;
+	padding:25px;
+	background-color: #022544;
+	position: absolute;
+	width: 100%;
+}
+
+#footer ul li {
+	list-style-type: none;
+	display: inline;
+}
+
+#footer li:before {
+	content: " | ";
+}
+
+#footer li:first-child:before {
+	content: none;
+}
+
+#footer img {
+	vertical-align: middle;
+}
+
+body {
+	overflow-x: hidden;
+	margin-left: 0px;
+}

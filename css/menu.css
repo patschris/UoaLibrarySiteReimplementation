@@ -1,0 +1,201 @@
+@CHARSET "ISO-8859-1";
+
+
+.firstDiv{
+	background-color:#022544;
+	height:15px;
+}
+/*****************************/
+.header{
+	background-color:#022544;
+}
+
+/******************************/
+
+#navLogin{
+	color:white;
+}
+
+
+
+#login{
+	padding: 10px;
+	margin-left: -50%;
+	border: 1px solid #c2c1c1;
+}
+
+#username{
+	border-radius: 10px;
+		border-style: solid;
+   border-color: whitesmoke;
+}
+
+#password{
+	margin-top: 2%;
+	border-radius: 10px;
+	border-style: solid;
+   border-color: whitesmoke;
+}
+
+.btn_login{
+	margin-top: 3%;
+	margin-left: 25%;
+		border-style: solid;
+	border-color: #B45F06;
+	border-radius: 7px;
+	width:50%;
+	background-color: #B45F06;
+	color:white;
+}
+
+
+/***********************************************************************/
+
+.tableAthena th, td {
+	padding:2px;
+}
+
+
+#menuLogin{
+	margin-left:90%;
+}
+
+.Login{
+	background:#022544;
+}
+
+
+#icon_athena{
+	height: 80px;
+	margin-left:10%;
+	
+
+}
+
+/* unvisited link */
+.labelLink:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* visited link */
+.labelLink:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/* mouse over link */
+.labelLink:hover {
+    color: black;
+    text-decoration: none;
+}
+
+/* selected link */
+.labelLink:active {
+    color: black;
+    text-decoration: none;
+}
+
+#label{
+	border-radius: 1px;
+  border:solid #73AD21;
+	border-color: #B45F06;
+	background-color: white;
+	
+}
+
+#extralabel{
+	
+	border:solid grey;
+	margin-left: 10%;
+	width:50%;
+	
+}
+
+.default-link{
+	/* all rules required to make the whole div clickable */ 
+	position:absolute; 
+	width:100%;
+	height:100%;
+	top:0;
+	left: 0;
+	z-index: 1;
+	/* this is a fix for IE7-9 */
+	background-color:#ffffff;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";  
+	filter: alpha(opacity=0);  
+	opacity:0;  
+}
+/*****************************************************************/
+
+#language{
+	font-size:80%;
+	margin-left: 90%;
+  /* margin-right:-275%; */
+	
+}
+
+/******************************************************************/
+
+.banner{
+	background:#022544;
+	margin-top:2%;
+	list-style-type:none;
+	height:40px;
+	
+}
+
+.drop_menu {
+	
+	background:grey;
+	list-style-type:none;
+	height:35px;
+}
+.drop_menu li { float:left; 
+}
+.drop_menu li a {
+	padding:9px 25px;
+	display:block;
+	color:white;
+	text-decoration:none;
+	font:13px arial, verdana, sans-serif;
+	 font-weight: bold;
+}
+
+.drop_menu_li hover{
+	background:blue;
+}
+
+/**************************************************/
+
+#navLogout{
+	color:white;
+}
+
+#libBtn{
+	color:white;
+	margin-top: -3%;
+	margin-left:85%;
+	width:190px;
+	padding-left:10px;
+  font-weight: bold;
+	background-color: white;
+}
+
+#logout{
+	padding: 6px;
+	margin-left: -50%;
+	border: 1px solid #c2c1c1;
+	text-align: center;
+}
+
+#btnLogout{
+	margin-top: 3%;
+		border-style: solid;
+	border-color: #B45F06;
+	border-radius: 7px;
+	width:70%;
+	background-color: #B45F06;
+	color:white;
+	padding:3px;
+}

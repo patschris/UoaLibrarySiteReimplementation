@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+
+#resultDetails{
+	margin-top:12%;
+	margin-bottom:-25%;
+	border: 1px solid grey;
+	background-color:white;
+}
+
+#resultDetails td{
+	padding: 10px;
+}
+
+#btnRent{
+	margin-left:2%;
+	background-color: #022544;
+	color: white;
+	font-weight: bold;
+}
+
+#btnEbook{
+	background-color: #B45F06;
+	color: white;
+	font-weight: bold;	
+}
+
+#tableResult{
+	margin-left:0%;
+	margin-bottom:-20%;
+	width:100%;
+}
+
+#image{
+	max-width:300px;
+	max-height:300px;	
+	margin-top: 3%;
+	margin-left:2%;
+}
+
+.nav-tabs{
+	margin-top: 22%;
+	width: 95%;
+}

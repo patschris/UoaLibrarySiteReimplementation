@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+.advancedSearch{
+	margin-top:4%;
+	margin-left:15%;
+	margin-bottom:-30%;
+}
+
+.advancedSearch h4{
+	margin-left: 30%;
+	margin-bottom: 4%;
+}
+
+.advancedSearch button{
+	margin-left: 30%;
+	margin-top: 4%;
+	width:200px;
+}
+
+#btn_advancedSearch{
+	background-color:#b45f06;
+	border-color: #b45f06;
+}
+
+.tableAdvancedSearch td{
+	width:550px;
+}
+
+.form-group{
+	width:90%;
+}

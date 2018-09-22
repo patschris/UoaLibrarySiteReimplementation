@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+
+.libSearch{
+	padding:30px;
+	border:1px solid grey;
+	background-color: white;
+	
+}
+
+.libTitleSearch{
+	margin-top: -2%;
+	color:#022544;
+}
+
+
+.form-group{
+	width: 350px;
+	margin-top: 6%;
+}
+
+#filterByName{
+	/*margin-top:3%;*/
+}
+
+#filterByDepartment{
+	font-size:12px;
+}
+
+
+#btnSearch{
+	/*margin-top: 4%;*/
+	margin-left: 35%;
+	width: 100px;
+	color: white;
+	background-color: #022544;
+	
+}

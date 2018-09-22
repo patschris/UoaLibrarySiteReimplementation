@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+.container{
+	margin-top:3%;
+	margin-bottom:-30%;
+}
+
+.tabbable{
+	margin-top: 3%;
+}
+.tab-content{
+	margin-top:4%;
+}
+
+#image{
+	max-width:300px;
+	max-height:300px;	
+	margin-top: 3%;
+	margin-left:2%;
+}
+
+.profileTable{
+	width:90%;
+	margin-left: 4%;
+	margin-top: 4%;
+}
+
+
+/***************************************************/
+
+.tableDetails td{
+	width:30%;
+}
+
+
+#btnExpandRent{
+	margin-left: 50%;
+	color:white;
+	background-color: #022544;
+	box-shadow: 2px 2px 1px #888888;
+}
+
+/***************************************************/
+
+.noResults{
+	margin-bottom: 25%;
+}
+

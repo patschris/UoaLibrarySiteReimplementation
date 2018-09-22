@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+#map_wrapper {
+    margin-top:-24%;
+}
+
+#map_canvas {
+    width: 30%;
+    height: 50%;
+    margin-left:65%;
+}

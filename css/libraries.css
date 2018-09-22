@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+.tableLibraries{
+	margin-left:5%;
+	margin-top:5%;
+	margin-bottom:-30%;
+	
+}
+
+.tableDiv{
+	height: 280px;
+}
+
+.libTitle{
+	color:#022544;
+	
+}
+
+.table-striped th {
+	height:50px;
+    background-color:white;
+} 
+
+.libList{
+	width:80%;
+	padding:30px;
+}
+
+.moreBtn{
+	float: right;
+	display: block;
+    width: 115px;
+    height: 25px;
+    background: #B45F06;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 90%;
+}
+
+.openBtn{
+	float: right;
+    width: 80px;
+    height: 25px;
+    background: #60a880;
+    font-size: 90%;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+
