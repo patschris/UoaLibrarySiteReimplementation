@@ -1,6 +1,6 @@
 <?php
-if (isset ( $_POST ['search'] )) {
-	$general = $_POST ["general"];
+if (isset ( $_GET['search'] )) {
+	$general = $_GET["general"];
 	
 	$q1=""; $qc1=""; $q2=""; $qc2=""; $q3=""; $qc3="";
 	if (!empty($general)) {

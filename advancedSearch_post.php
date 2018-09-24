@@ -1,12 +1,12 @@
 <?php
-if (isset ( $_POST ['advancedSearch'] )) {
-	$general = $_POST ["general"];
-	$title = $_POST ["title"];
-	$author = $_POST ["author"];
-	$publications = $_POST["publications"];
-	$code = $_POST ["code"];
-	$type = $_POST ["materialType"];
-	$library = $_POST ["library"];
+if (isset ( $_GET ['advancedSearch'] )) {
+	$general = $_GET ["general"];
+	$title = $_GET ["title"];
+	$author = $_GET ["author"];
+	$publications = $_GET["publications"];
+	$code = $_GET ["code"];
+	$type = $_GET ["materialType"];
+	$library = $_GET ["library"];
 	
 	$q = "select * from material ";
 	$qc ="select count(*) as c from material ";

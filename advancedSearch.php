@@ -22,7 +22,7 @@ body {
 <body>
 <div class="advancedSearch">
 	<h4><b>Σύνθετη Αναζήτηση</b></h4>
-	<form method="post" action="advancedSearch_post.php" class="form-horizontal">
+	<form method="get" action="advancedSearch_post.php" class="form-horizontal">
 		<table class="tableAdvancedSearch">
 		<tr>
 		<td>
