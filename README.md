@@ -3,6 +3,9 @@ This project is a redesign of the site of [UOA libary](http://www.lib.uoa.gr/) f
 implementation emphasizes on design. Thus, the site isn`t fully functional. It is based on a heuristic evaluation according to [Nielsen's 
 principles](https://www.nngroup.com/articles/ten-usability-heuristics/) and the mockups designed using [Balsamiq](https://balsamiq.com/).
 
+## Keywords
+PHP, HTML, Bootstrap, JavaScript, MySQL, XAMPP
+
 ## References 
 [1] http://www.lib.uoa.gr/<br/>
 [2] https://www.nngroup.com/articles/ten-usability-heuristics/<br/>
